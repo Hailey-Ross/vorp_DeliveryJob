@@ -22,7 +22,7 @@ Config.MainJob = {
     {job =2, x=2939.25,y=1288.65,z=44.65},
     {job =3,x=-778.33,y=-1323.44,z=43.88},
     {job =4,x=-2324.89,y=-2406.17,z=63.85},
-	{job =5,x=1231.27,y=-1299.57,z=77.39}, -- Rhodes Train Station
+    {job =5,x=1231.27,y=-1299.57,z=77.39}, -- Rhodes Train Station
 }
 
 Config.FinishJob = {
@@ -30,7 +30,7 @@ Config.FinishJob = {
     {x=1420.15,y=383.93,z=90.33},
     {x=-1792.18,y=-391.68,z=43.88},
     {x=-3686.81,y=-2627.33,z=13.43},
-	{x=-883.62,y=-1300.45,z=43.30}, -- Blackwater Construction
+    {x=-883.62,y=-1300.45,z=43.30}, -- Blackwater Construction
 }
 
 

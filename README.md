@@ -1,4 +1,5 @@
 # vorp_DeliveryJob
+Fork / Edit by [Hailey](https://github.com/Hailey-Ross/) of the vorp_DeliveryJob 
 
 ## Dependencies:
 - [VORP-CORE](https://github.com/VORPCORE/VORP-Core)
@@ -15,6 +16,7 @@
 - You can change the language in ```config.lua``` in ```Config.locale```
 
 
-## Original Creator Info:
+## Info:
 - KLS
-- Based on [TheRealDelinquentRP](https://github.com/TheRealDelinquentRP) [DeliveryJob](https://github.com/TheRealDelinquentRP/redemrp_Deliveryjob)
+- Based on [TheRealDelinquentRP](https://github.com/TheRealDelinquentRP) original script [DeliveryJob](https://github.com/TheRealDelinquentRP/redemrp_Deliveryjob)
+- [VorpCore Discord](https://discord.vorpcore.com)

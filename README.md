@@ -6,7 +6,7 @@ Fork / Edit by [Hailey](https://github.com/Hailey-Ross/) of the vorp_DeliveryJob
 - Annesburg to Emerald Ranch
 - Blackwater to Strawberry
 - MacFarland Ranch to Armadillo
-- Rhodes to Blackwater *NEW*
+- Rhodes to Blackwater (*NEW*)
 
 ## Dependencies:
 - [VORP-CORE](https://github.com/VORPCORE/VORP-Core)

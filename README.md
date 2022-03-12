@@ -1,13 +1,19 @@
 # vorp_DeliveryJob
 Fork / Edit by [Hailey](https://github.com/Hailey-Ross/) of the vorp_DeliveryJob 
 
+## Routes Available
+- Valentine to Bachus Station
+- Annesburg to Emerald Ranch
+- Blackwater to Strawberry
+- MacFarland Ranch to Armadillo
+- Rhodes to Blackwater
+
 ## Dependencies:
 - [VORP-CORE](https://github.com/VORPCORE/VORP-Core)
 - [VORP-Inventory](https://github.com/VORPCORE/VORP-Inventory)
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character)
 
 ## Installation
-
 - Clone this repository
 - Extract the zip
 - Put vorp_DeliveryJob to your resource folder
